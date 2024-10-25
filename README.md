@@ -52,7 +52,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 ## Команда запуска в корневой директории проекта:
 ```
-sudo docker-compose up -d
+sudo docker compose up -d
 ```
 
 ## Тестирование работоспособности: 
